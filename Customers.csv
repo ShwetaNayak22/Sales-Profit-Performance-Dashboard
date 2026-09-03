@@ -1,0 +1,501 @@
+Customer_ID,Customer_Name,Region,Segment
+Cust 6583,Aman Iyer,Asia,Home Office
+Cust 2144,Riya Kapoor,South America,Consumer
+Cust 5998,Ira Nair,North America,Consumer
+Cust 7136,Anushka Pillai,Africa,Consumer
+Cust 6506,Sneha Rao,Asia,Home Office
+Cust 3909,Vivek Patel,Africa,Consumer
+Cust 7887,Nisha Yadav,South America,Consumer
+Cust 5301,Dev Ghosh,Africa,Consumer
+Cust 2284,Manav Joshi,South America,Corporate
+Cust 3732,Riya Gupta,Europe,Corporate
+Cust 1462,Arjun Reddy,North America,Consumer
+Cust 4330,Akash Mishra,Asia,Corporate
+Cust 2372,Rohan Roy,Africa,Consumer
+Cust 4672,Yash Reddy,Europe,Corporate
+Cust 4548,Aman Mukherjee,North America,Home Office
+Cust 7037,Karan Mehta,Europe,Home Office
+Cust 4975,Siddharth Bhat,Europe,Consumer
+Cust 8014,Arjun Desai,Africa,Corporate
+Cust 1228,Aman Kulkarni,Asia,Corporate
+Cust 4247,Akash Rao,Europe,Home Office
+Cust 4199,Komal Mehta,Europe,Home Office
+Cust 4186,Aditya Yadav,Africa,Consumer
+Cust 8137,Sakshi Desai,North America,Home Office
+Cust 4638,Dhruv Sen,Africa,Home Office
+Cust 8538,Varun Singh,North America,Consumer
+Cust 6322,Varun Bose,Asia,Consumer
+Cust 2609,Meera Choudhary,Europe,Consumer
+Cust 6880,Swati Pandey,North America,Home Office
+Cust 1997,Sakshi Gupta,South America,Consumer
+Cust 7072,Ishita Sen,Africa,Corporate
+Cust 7201,Ira Ghosh,North America,Home Office
+Cust 9923,Shreya Kulkarni,North America,Consumer
+Cust 2205,Abhishek Pandey,South America,Consumer
+Cust 6403,Kavya Gupta,Africa,Home Office
+Cust 3953,Nandini Bansal,North America,Corporate
+Cust 7902,Yash Bansal,North America,Home Office
+Cust 9968,Manish Sen,Africa,Home Office
+Cust 3787,Gaurav Iyer,South America,Corporate
+Cust 2469,Preeti Kaur,Africa,Corporate
+Cust 6468,Nandini Joshi,Africa,Consumer
+Cust 5312,Gaurav Das,South America,Consumer
+Cust 1482,Abhishek Nair,Africa,Home Office
+Cust 7903,Abhishek Bansal,South America,Consumer
+Cust 9605,Tanvi Joshi,Africa,Home Office
+Cust 3298,Aarav Bansal,South America,Corporate
+Cust 5533,Ananya Iyer,South America,Corporate
+Cust 6362,Ishita Singh,Europe,Home Office
+Cust 4826,Sneha Reddy,Asia,Consumer
+Cust 2171,Manav Yadav,North America,Consumer
+Cust 4005,Rishabh Saxena,Europe,Consumer
+Cust 7032,Manish Arora,Asia,Corporate
+Cust 7167,Meera Yadav,Europe,Home Office
+Cust 5702,Aditi Bose,South America,Corporate
+Cust 4944,Pallavi Khanna,South America,Consumer
+Cust 8149,Siddharth Mehta,Europe,Consumer
+Cust 3638,Anushka Sen,Africa,Home Office
+Cust 9973,Siddharth Sharma,Asia,Home Office
+Cust 4214,Aman Singh,Asia,Consumer
+Cust 2647,Rohan Kaur,South America,Home Office
+Cust 3552,Ishita Chatterjee,South America,Consumer
+Cust 3354,Rajat Verma,Europe,Home Office
+Cust 3903,Mohit Kapoor,Africa,Corporate
+Cust 5358,Karan Nair,Africa,Home Office
+Cust 8144,Nandini Mishra,Africa,Corporate
+Cust 6747,Sakshi Singh,South America,Consumer
+Cust 8330,Shreya Kaur,Africa,Consumer
+Cust 7186,Karan Malhotra,Europe,Corporate
+Cust 8287,Rahul Pillai,South America,Corporate
+Cust 3986,Sakshi Kapoor,North America,Corporate
+Cust 3213,Manya Nair,Europe,Home Office
+Cust 1907,Rajat Sharma,Asia,Consumer
+Cust 4639,Aditya Agarwal,Africa,Corporate
+Cust 4153,Meera Bose,South America,Consumer
+Cust 7096,Yash Sharma,South America,Corporate
+Cust 3806,Sakshi Bhat,Africa,Home Office
+Cust 9345,Gaurav Sen,Africa,Consumer
+Cust 4456,Karan Bhat,South America,Consumer
+Cust 1089,Anushka Yadav,South America,Home Office
+Cust 7230,Priya Ghosh,Asia,Home Office
+Cust 6597,Pallavi Joshi,Africa,Home Office
+Cust 4108,Sneha Shah,North America,Home Office
+Cust 2883,Vikram Kapoor,Asia,Consumer
+Cust 5018,Saurabh Kapoor,Europe,Home Office
+Cust 1231,Rohan Mukherjee,Asia,Corporate
+Cust 2209,Rishabh Ghosh,Asia,Home Office
+Cust 6684,Varun Das,Africa,Home Office
+Cust 5289,Nisha Sinha,Asia,Corporate
+Cust 9159,Shreya Verma,South America,Corporate
+Cust 4844,Varun Mehta,North America,Corporate
+Cust 3273,Ritika Choudhary,Africa,Consumer
+Cust 8160,Rajat Rao,North America,Corporate
+Cust 4439,Rahul Mishra,North America,Consumer
+Cust 1127,Tanvi Bhat,North America,Corporate
+Cust 4696,Rajat Menon,Asia,Home Office
+Cust 3014,Pallavi Sharma,Africa,Corporate
+Cust 2539,Rishabh Nair,Europe,Corporate
+Cust 3916,Kavya Nair,Africa,Consumer
+Cust 6329,Riya Bhat,Africa,Consumer
+Cust 4384,Nisha Kaur,Europe,Home Office
+Cust 7756,Aman Das,North America,Corporate
+Cust 6086,Manish Singh,North America,Home Office
+Cust 3845,Nandini Chatterjee,Europe,Consumer
+Cust 9996,Simran Verma,Asia,Consumer
+Cust 1711,Ira Khanna,North America,Home Office
+Cust 4522,Nandini Sen,Asia,Consumer
+Cust 4233,Vikram Gupta,Europe,Consumer
+Cust 4121,Tanvi Ghosh,Africa,Consumer
+Cust 9092,Nandini Verma,Asia,Corporate
+Cust 9090,Tanvi Kumar,Asia,Consumer
+Cust 1983,Komal Kapoor,North America,Corporate
+Cust 8834,Preeti Sen,South America,Home Office
+Cust 9780,Ira Gupta,South America,Consumer
+Cust 1293,Pooja Agarwal,Africa,Consumer
+Cust 3173,Ira Kaur,Europe,Home Office
+Cust 8641,Ira Kapoor,Asia,Consumer
+Cust 7656,Dhruv Nair,Africa,Consumer
+Cust 5523,Mohit Jain,Africa,Corporate
+Cust 2015,Akash Menon,Europe,Consumer
+Cust 6895,Ananya Malhotra,South America,Corporate
+Cust 1797,Riya Mehta,Africa,Corporate
+Cust 9969,Swati Tiwari,Africa,Home Office
+Cust 1815,Rajat Kaur,Africa,Consumer
+Cust 7773,Manish Shah,South America,Corporate
+Cust 1499,Rohan Nair,Asia,Corporate
+Cust 3809,Akash Sinha,North America,Home Office
+Cust 7824,Abhishek Iyer,North America,Home Office
+Cust 7258,Karan Das,Africa,Home Office
+Cust 1151,Nandini Sharma,Asia,Home Office
+Cust 6486,Komal Malhotra,Asia,Corporate
+Cust 4034,Vikram Kaur,Europe,Corporate
+Cust 9794,Rishabh Iyer,North America,Home Office
+Cust 2414,Aditi Agarwal,Asia,Corporate
+Cust 9024,Dhruv Bhat,Europe,Consumer
+Cust 2663,Karan Agarwal,Asia,Home Office
+Cust 2293,Ira Shah,South America,Home Office
+Cust 8963,Manya Sharma,Africa,Corporate
+Cust 9238,Meera Pillai,Europe,Home Office
+Cust 1390,Swati Sinha,Africa,Corporate
+Cust 8548,Dev Rao,Africa,Corporate
+Cust 2919,Ira Joshi,North America,Corporate
+Cust 5847,Abhishek Mukherjee,Africa,Consumer
+Cust 5711,Manav Kapoor,North America,Consumer
+Cust 5461,Karan Gupta,Asia,Consumer
+Cust 8905,Ishita Saxena,North America,Consumer
+Cust 9618,Sakshi Agarwal,Africa,Consumer
+Cust 5203,Nisha Desai,Europe,Corporate
+Cust 1732,Ishita Gupta,North America,Consumer
+Cust 4734,Preeti Pillai,Europe,Consumer
+Cust 5895,Dhruv Arora,Africa,Consumer
+Cust 9691,Manya Kapoor,South America,Corporate
+Cust 5406,Rahul Roy,North America,Home Office
+Cust 5750,Vivek Sinha,North America,Home Office
+Cust 0001,Gaurav Tiwari,South America,Home Office
+Cust 8280,Dev Joshi,North America,Corporate
+Cust 4358,Manish Kapoor,South America,Home Office
+Cust 3588,Divya Kapoor,South America,Corporate
+Cust 4539,Vikram Bhat,South America,Corporate
+Cust 7067,Simran Sinha,South America,Consumer
+Cust 7720,Rahul Gupta,South America,Corporate
+Cust 5668,Dhruv Gupta,North America,Consumer
+Cust 8367,Harsh Agarwal,South America,Home Office
+Cust 4438,Priya Rao,South America,Corporate
+Cust 3481,Preeti Ghosh,Africa,Home Office
+Cust 1489,Yash Saxena,South America,Corporate
+Cust 6649,Aditi Desai,North America,Home Office
+Cust 6114,Ira Yadav,Asia,Consumer
+Cust 9589,Divya Jain,North America,Corporate
+Cust 8184,Divya Patel,North America,Corporate
+Cust 2490,Rishabh Bose,Europe,Corporate
+Cust 1647,Rahul Mukherjee,Africa,Consumer
+Cust 2017,Shreya Ghosh,Europe,Home Office
+Cust 3446,Ananya Reddy,Europe,Consumer
+Cust 4877,Sakshi Shah,South America,Corporate
+Cust 9112,Yash Sinha,Asia,Corporate
+Cust 8172,Varun Kaur,North America,Corporate
+Cust 4597,Manav Agarwal,North America,Consumer
+Cust 3690,Mohit Patel,North America,Consumer
+Cust 2893,Akash Jain,Africa,Home Office
+Cust 5602,Rohan Patel,Asia,Consumer
+Cust 5616,Ananya Mukherjee,Asia,Consumer
+Cust 1312,Rahul Saxena,North America,Home Office
+Cust 6315,Meera Roy,South America,Corporate
+Cust 1224,Aditya Bansal,Asia,Home Office
+Cust 7182,Nisha Iyer,Europe,Corporate
+Cust 7901,Arjun Ghosh,Europe,Corporate
+Cust 1736,Saurabh Desai,North America,Home Office
+Cust 7795,Anushka Kapoor,South America,Home Office
+Cust 2471,Preeti Menon,South America,Consumer
+Cust 3068,Saurabh Kumar,Europe,Home Office
+Cust 3848,Nandini Kulkarni,Europe,Home Office
+Cust 7777,Swati Kaur,Asia,Corporate
+Cust 6613,Divya Nair,Asia,Corporate
+Cust 2326,Aman Roy,South America,Corporate
+Cust 8304,Pooja Arora,South America,Home Office
+Cust 3630,Rajat Saxena,Africa,Corporate
+Cust 8617,Gaurav Ghosh,Europe,Corporate
+Cust 3530,Ishita Reddy,Asia,Corporate
+Cust 3884,Ishita Roy,Africa,Home Office
+Cust 5739,Rishabh Desai,Europe,Consumer
+Cust 9707,Divya Sinha,North America,Corporate
+Cust 9288,Meera Mishra,Africa,Corporate
+Cust 1216,Riya Bansal,Europe,Home Office
+Cust 2489,Aarav Arora,Africa,Consumer
+Cust 7171,Ishita Agarwal,Europe,Home Office
+Cust 9125,Dhruv Saxena,Africa,Corporate
+Cust 9697,Nikhil Jain,Europe,Home Office
+Cust 8171,Ishita Menon,Africa,Corporate
+Cust 2004,Mohit Sen,Asia,Corporate
+Cust 0002,Simran Mishra,Europe,Corporate
+Cust 9837,Aditi Das,South America,Consumer
+Cust 2082,Gaurav Malhotra,Europe,Consumer
+Cust 3001,Manav Shah,Asia,Consumer
+Cust 6161,Ira Saxena,Asia,Home Office
+Cust 5220,Anushka Arora,South America,Corporate
+Cust 3386,Arjun Malhotra,Europe,Consumer
+Cust 1591,Tanvi Shah,North America,Consumer
+Cust 3434,Rahul Chatterjee,Asia,Consumer
+Cust 1501,Manya Bhat,North America,Home Office
+Cust 9683,Manav Pandey,Africa,Consumer
+Cust 5416,Saurabh Bhat,Africa,Corporate
+Cust 2153,Dev Kaur,Europe,Consumer
+Cust 3572,Manish Saxena,Europe,Consumer
+Cust 6372,Shreya Pandey,Europe,Home Office
+Cust 6109,Neha Gupta,North America,Corporate
+Cust 5234,Sneha Kapoor,North America,Home Office
+Cust 5530,Vivek Bansal,Asia,Consumer
+Cust 5398,Preeti Arora,South America,Corporate
+Cust 3247,Dev Menon,South America,Corporate
+Cust 7137,Aditi Choudhary,Asia,Consumer
+Cust 4627,Ritika Nair,Asia,Home Office
+Cust 4878,Meera Das,Europe,Consumer
+Cust 2779,Ishita Shah,Europe,Consumer
+Cust 8606,Aditya Sharma,Europe,Corporate
+Cust 9599,Dhruv Bansal,South America,Corporate
+Cust 4500,Rohan Jain,Africa,Home Office
+Cust 4173,Nikhil Roy,Europe,Home Office
+Cust 7607,Siddharth Das,Africa,Home Office
+Cust 4768,Karan Pillai,South America,Home Office
+Cust 5746,Siddharth Gupta,North America,Consumer
+Cust 3002,Vikram Singh,Africa,Corporate
+Cust 3237,Vivek Choudhary,North America,Corporate
+Cust 6437,Kavya Roy,Africa,Home Office
+Cust 8806,Shreya Chatterjee,North America,Home Office
+Cust 8678,Divya Khanna,Africa,Home Office
+Cust 9649,Rohan Pillai,Europe,Home Office
+Cust 1960,Manish Patel,South America,Consumer
+Cust 3910,Komal Choudhary,Europe,Consumer
+Cust 0003,Manav Chatterjee,Asia,Consumer
+Cust 0004,Mohit Arora,Asia,Corporate
+Cust 2279,Pooja Ghosh,North America,Home Office
+Cust 4689,Divya Reddy,South America,Corporate
+Cust 7381,Harsh Kaur,Asia,Home Office
+Cust 2724,Arjun Joshi,Asia,Corporate
+Cust 2823,Dhruv Pandey,South America,Home Office
+Cust 9402,Shreya Sen,Asia,Corporate
+Cust 6561,Sneha Sinha,Asia,Corporate
+Cust 3116,Kavya Bose,Asia,Consumer
+Cust 1015,Rishabh Yadav,South America,Corporate
+Cust 1207,Priya Malhotra,South America,Corporate
+Cust 2501,Ritika Pandey,South America,Consumer
+Cust 2330,Meera Chatterjee,South America,Consumer
+Cust 7436,Nikhil Khanna,North America,Consumer
+Cust 2762,Ananya Bansal,Asia,Home Office
+Cust 3599,Aditya Menon,Europe,Consumer
+Cust 4127,Manya Agarwal,North America,Consumer
+Cust 6855,Divya Bhat,South America,Home Office
+Cust 7017,Riya Agarwal,Europe,Corporate
+Cust 6957,Manya Gupta,South America,Consumer
+Cust 9822,Vivek Tiwari,North America,Consumer
+Cust 7425,Simran Tiwari,North America,Consumer
+Cust 0005,Nikhil Menon,South America,Home Office
+Cust 8897,Rishabh Pandey,Europe,Corporate
+Cust 9816,Akash Kaur,North America,Home Office
+Cust 8227,Yash Roy,Europe,Consumer
+Cust 4990,Dhruv Kapoor,Asia,Corporate
+Cust 5834,Siddharth Agarwal,Africa,Corporate
+Cust 7330,Yash Gupta,North America,Consumer
+Cust 5273,Rahul Tiwari,Europe,Corporate
+Cust 6138,Arjun Khanna,North America,Home Office
+Cust 2084,Sakshi Sharma,Europe,Corporate
+Cust 2799,Swati Gupta,Asia,Corporate
+Cust 0006,Manish Kaur,North America,Home Office
+Cust 3051,Shreya Reddy,Europe,Home Office
+Cust 5456,Rajat Desai,Africa,Home Office
+Cust 6029,Nisha Pandey,North America,Consumer
+Cust 4002,Ritika Mehta,Asia,Home Office
+Cust 5830,Komal Bhat,Europe,Home Office
+Cust 8088,Sneha Pillai,Europe,Home Office
+Cust 6455,Nisha Nair,South America,Consumer
+Cust 4117,Dhruv Menon,Europe,Consumer
+Cust 1385,Nikhil Mishra,South America,Corporate
+Cust 5185,Neha Kapoor,North America,Corporate
+Cust 8704,Saurabh Shah,Asia,Consumer
+Cust 3528,Sneha Mukherjee,North America,Home Office
+Cust 3907,Divya Ghosh,Africa,Consumer
+Cust 9005,Sakshi Das,South America,Corporate
+Cust 3635,Rishabh Sharma,Europe,Corporate
+Cust 2122,Komal Yadav,Asia,Consumer
+Cust 4467,Dev Mishra,Africa,Corporate
+Cust 6146,Aman Pillai,South America,Corporate
+Cust 4001,Aditi Malhotra,Europe,Corporate
+Cust 3365,Arjun Kapoor,Europe,Home Office
+Cust 2194,Akash Choudhary,Europe,Home Office
+Cust 7942,Nikhil Patel,North America,Corporate
+Cust 8451,Aarav Choudhary,Europe,Home Office
+Cust 4238,Ira Pandey,South America,Consumer
+Cust 2529,Vivek Mishra,Africa,Home Office
+Cust 7057,Karan Mukherjee,Africa,Home Office
+Cust 9069,Manav Verma,South America,Home Office
+Cust 5858,Swati Kumar,North America,Corporate
+Cust 2712,Rohan Ghosh,North America,Home Office
+Cust 7052,Rahul Reddy,South America,Corporate
+Cust 9397,Ira Agarwal,South America,Consumer
+Cust 4614,Rahul Yadav,North America,Home Office
+Cust 1573,Abhishek Chatterjee,South America,Corporate
+Cust 5660,Mohit Bhat,Europe,Consumer
+Cust 3952,Sakshi Mehta,Europe,Consumer
+Cust 5407,Komal Bose,South America,Corporate
+Cust 9595,Sneha Bose,North America,Corporate
+Cust 3245,Rajat Iyer,Africa,Corporate
+Cust 7180,Komal Das,Africa,Corporate
+Cust 5973,Arjun Jain,Europe,Consumer
+Cust 4310,Ritika Sen,South America,Home Office
+Cust 6243,Swati Agarwal,South America,Consumer
+Cust 2448,Rohan Kumar,Africa,Corporate
+Cust 9386,Ishita Yadav,South America,Corporate
+Cust 2227,Sakshi Kulkarni,North America,Corporate
+Cust 3803,Anushka Gupta,South America,Home Office
+Cust 1236,Arjun Pandey,Africa,Corporate
+Cust 2669,Riya Kumar,South America,Consumer
+Cust 3746,Dev Khanna,South America,Corporate
+Cust 9694,Arjun Kulkarni,Asia,Home Office
+Cust 4993,Akash Singh,Asia,Corporate
+Cust 1271,Karan Iyer,South America,Consumer
+Cust 3042,Rishabh Rao,South America,Consumer
+Cust 6424,Priya Kaur,Africa,Consumer
+Cust 1422,Saurabh Rao,Europe,Home Office
+Cust 5857,Meera Ghosh,Europe,Consumer
+Cust 6953,Simran Gupta,Asia,Consumer
+Cust 2916,Kavya Patel,North America,Consumer
+Cust 0007,Akash Kapoor,Asia,Corporate
+Cust 8464,Ananya Shah,Africa,Consumer
+Cust 9700,Rahul Agarwal,South America,Consumer
+Cust 7765,Ira Mehta,Europe,Corporate
+Cust 8246,Preeti Kulkarni,North America,Home Office
+Cust 6500,Abhishek Jain,Africa,Consumer
+Cust 1150,Gaurav Arora,Africa,Corporate
+Cust 7449,Swati Patel,Asia,Corporate
+Cust 1957,Shreya Pillai,North America,Corporate
+Cust 3467,Nisha Khanna,Africa,Consumer
+Cust 5212,Varun Bansal,North America,Consumer
+Cust 3509,Ritika Ghosh,Asia,Home Office
+Cust 5316,Varun Desai,North America,Home Office
+Cust 9919,Nandini Nair,South America,Home Office
+Cust 7129,Swati Sen,Europe,Corporate
+Cust 9841,Dev Jain,North America,Corporate
+Cust 0008,Sakshi Bose,North America,Home Office
+Cust 4142,Arjun Sinha,Europe,Corporate
+Cust 9584,Rishabh Das,North America,Consumer
+Cust 2553,Komal Saxena,North America,Consumer
+Cust 1347,Ira Kulkarni,Africa,Home Office
+Cust 8305,Manya Sen,Africa,Home Office
+Cust 7015,Kavya Agarwal,North America,Home Office
+Cust 4394,Manav Pillai,South America,Corporate
+Cust 3323,Vivek Menon,South America,Consumer
+Cust 4029,Saurabh Tiwari,Europe,Consumer
+Cust 1400,Siddharth Nair,Africa,Home Office
+Cust 6361,Tanvi Iyer,Europe,Home Office
+Cust 5267,Siddharth Pillai,Africa,Home Office
+Cust 9354,Rishabh Chatterjee,Africa,Consumer
+Cust 9443,Riya Menon,Africa,Corporate
+Cust 2252,Aarav Shah,North America,Home Office
+Cust 1031,Ira Patel,Africa,Home Office
+Cust 0009,Pallavi Rao,North America,Corporate
+Cust 1672,Sakshi Kaur,Africa,Corporate
+Cust 9313,Aditi Sinha,Asia,Home Office
+Cust 4405,Sneha Singh,South America,Consumer
+Cust 6453,Manav Mukherjee,Africa,Home Office
+Cust 4772,Sneha Chatterjee,South America,Home Office
+Cust 1762,Nandini Pandey,Asia,Corporate
+Cust 1865,Harsh Chatterjee,South America,Home Office
+Cust 9552,Kavya Mishra,Europe,Consumer
+Cust 4273,Nikhil Ghosh,Africa,Home Office
+Cust 8712,Rishabh Menon,South America,Consumer
+Cust 9048,Shreya Bansal,Africa,Consumer
+Cust 7714,Meera Menon,Asia,Consumer
+Cust 4770,Manav Das,Asia,Corporate
+Cust 2007,Kavya Sharma,South America,Home Office
+Cust 8909,Nandini Shah,Africa,Corporate
+Cust 4196,Rajat Jain,South America,Home Office
+Cust 4189,Rishabh Mishra,North America,Corporate
+Cust 7226,Ira Kumar,Europe,Consumer
+Cust 5015,Varun Choudhary,Africa,Home Office
+Cust 9904,Shreya Agarwal,Africa,Consumer
+Cust 7687,Shreya Patel,Europe,Consumer
+Cust 6511,Ritika Roy,North America,Consumer
+Cust 2412,Ishita Pillai,Asia,Corporate
+Cust 1664,Pallavi Reddy,Europe,Corporate
+Cust 6033,Siddharth Kaur,South America,Consumer
+Cust 4019,Pallavi Tiwari,Asia,Corporate
+Cust 4515,Akash Gupta,Europe,Consumer
+Cust 7532,Neha Das,Asia,Consumer
+Cust 8756,Vivek Gupta,South America,Consumer
+Cust 7620,Preeti Pandey,Europe,Home Office
+Cust 7368,Manav Ghosh,South America,Home Office
+Cust 1319,Saurabh Mukherjee,Europe,Home Office
+Cust 9597,Varun Gupta,Africa,Consumer
+Cust 7369,Mohit Khanna,Asia,Corporate
+Cust 8592,Anushka Singh,Asia,Home Office
+Cust 2337,Vikram Menon,Asia,Corporate
+Cust 0010,Rohan Singh,North America,Corporate
+Cust 0011,Vikram Reddy,Africa,Home Office
+Cust 9097,Abhishek Desai,North America,Home Office
+Cust 5938,Manya Kumar,South America,Home Office
+Cust 6928,Swati Malhotra,Asia,Home Office
+Cust 6223,Mohit Tiwari,South America,Consumer
+Cust 7614,Dev Nair,Africa,Home Office
+Cust 3231,Sneha Tiwari,Europe,Consumer
+Cust 9123,Ishita Khanna,Europe,Home Office
+Cust 7054,Pallavi Mukherjee,Africa,Corporate
+Cust 4240,Yash Agarwal,North America,Home Office
+Cust 1237,Vivek Singh,South America,Consumer
+Cust 5513,Simran Nair,Europe,Home Office
+Cust 1835,Yash Bhat,South America,Home Office
+Cust 8492,Rishabh Bansal,Asia,Corporate
+Cust 2451,Sneha Ghosh,Europe,Corporate
+Cust 4509,Rahul Bansal,North America,Corporate
+Cust 6643,Manya Desai,South America,Consumer
+Cust 2559,Rishabh Arora,North America,Home Office
+Cust 4423,Rishabh Pillai,South America,Corporate
+Cust 9139,Ananya Kulkarni,Africa,Consumer
+Cust 6668,Meera Kaur,Africa,Consumer
+Cust 4315,Siddharth Verma,Africa,Consumer
+Cust 8000,Nikhil Nair,Africa,Home Office
+Cust 7585,Ira Arora,Asia,Home Office
+Cust 3127,Simran Mukherjee,Africa,Home Office
+Cust 4130,Aditya Shah,South America,Consumer
+Cust 6956,Gaurav Khanna,South America,Corporate
+Cust 8155,Tanvi Kapoor,Asia,Home Office
+Cust 8852,Siddharth Yadav,North America,Corporate
+Cust 2850,Mohit Malhotra,Europe,Home Office
+Cust 9572,Saurabh Khanna,Asia,Corporate
+Cust 6253,Preeti Desai,Africa,Home Office
+Cust 4154,Harsh Joshi,North America,Home Office
+Cust 2137,Rahul Das,Asia,Home Office
+Cust 8157,Mohit Kulkarni,Asia,Consumer
+Cust 4861,Nisha Arora,Europe,Corporate
+Cust 7493,Sneha Joshi,Africa,Corporate
+Cust 7073,Abhishek Gupta,Asia,Consumer
+Cust 9085,Siddharth Khanna,Africa,Consumer
+Cust 0012,Harsh Singh,Asia,Home Office
+Cust 8504,Tanvi Jain,Europe,Corporate
+Cust 4164,Arjun Kaur,Europe,Consumer
+Cust 9592,Rohan Bhat,Asia,Home Office
+Cust 7450,Dev Mukherjee,South America,Consumer
+Cust 0013,Ananya Das,Africa,Consumer
+Cust 3305,Manya Bansal,North America,Corporate
+Cust 9768,Kavya Bhat,North America,Corporate
+Cust 1179,Kavya Singh,Asia,Corporate
+Cust 2546,Kavya Pandey,North America,Home Office
+Cust 2672,Ananya Tiwari,South America,Consumer
+Cust 3394,Nisha Gupta,South America,Corporate
+Cust 1649,Aarav Mukherjee,Europe,Consumer
+Cust 6994,Saurabh Agarwal,North America,Home Office
+Cust 9879,Rishabh Reddy,Europe,Corporate
+Cust 0014,Vikram Arora,South America,Home Office
+Cust 3712,Abhishek Sen,Africa,Corporate
+Cust 3829,Mohit Kumar,Europe,Corporate
+Cust 1623,Akash Mehta,Africa,Consumer
+Cust 3532,Gaurav Nair,South America,Home Office
+Cust 4712,Manav Kaur,Asia,Consumer
+Cust 6211,Akash Yadav,Europe,Home Office
+Cust 1222,Pooja Roy,Africa,Home Office
+Cust 6208,Pooja Verma,Europe,Home Office
+Cust 5942,Preeti Roy,Europe,Corporate
+Cust 1745,Karan Kumar,South America,Consumer
+Cust 2679,Varun Menon,Asia,Corporate
+Cust 9907,Manish Kumar,Africa,Corporate
+Cust 0015,Riya Iyer,Africa,Corporate
+Cust 5717,Shreya Khanna,Asia,Corporate
+Cust 7995,Pooja Pandey,North America,Corporate
+Cust 5572,Pallavi Chatterjee,North America,Home Office
+Cust 1721,Nandini Reddy,Europe,Home Office
+Cust 2641,Pooja Yadav,Europe,Corporate
+Cust 9769,Varun Bhat,North America,Corporate
+Cust 1718,Vivek Pillai,Asia,Home Office
+Cust 1210,Dev Kumar,Europe,Home Office
+Cust 7710,Vikram Bose,Europe,Home Office
+Cust 1428,Ananya Gupta,Asia,Home Office
+Cust 2810,Rahul Mehta,Asia,Home Office
+Cust 2234,Tanvi Kulkarni,Europe,Home Office
+Cust 9602,Rohan Bansal,Asia,Home Office
+Cust 0016,Dev Kulkarni,Africa,Corporate
+Cust 5032,Manav Mehta,Europe,Consumer
+Cust 4297,Pallavi Kulkarni,Asia,Corporate
+Cust 6944,Swati Chatterjee,Africa,Consumer
+Cust 4136,Divya Arora,Asia,Home Office
+Cust 7460,Kavya Das,South America,Home Office
+Cust 3960,Ritika Bhat,Africa,Consumer
+Cust 0017,Kavya Verma,Africa,Corporate
