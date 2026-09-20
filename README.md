@@ -1,4 +1,4 @@
-# 📊 Sales & Profit Performance Dashboard
+# 📊 Sales & Profit Performance Analysis
 
 ## 📌 Project Overview
 
